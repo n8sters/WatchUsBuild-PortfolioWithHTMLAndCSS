@@ -2,14 +2,7 @@ Nate Powers
 
 I'm a coding polymath; I'm constantly teaching myself new frameworks and algorithms, currently focuing on Android developement
 
-
-Try iOS (released November 2012), Try Objective-C (released March 2013), Core iOS 7 (released September 2013)
-
-
 https://github.com/n8sters
-
-
-
 
 - Java
 - JavaScript
